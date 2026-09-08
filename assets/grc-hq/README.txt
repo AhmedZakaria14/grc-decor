@@ -1,0 +1,1 @@
+High-quality local image assets are being restored without altering layout or controls.
